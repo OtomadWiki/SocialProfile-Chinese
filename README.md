@@ -1,0 +1,2 @@
+# SocialProfile-Chinese
+弥补SocialProfile插件国际化翻译系统的错误
